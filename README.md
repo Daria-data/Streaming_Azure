@@ -8,6 +8,6 @@ Suite à des problèmes de connexion entre Databricks et Event Hub, ainsi qu’�
 
 L’architecture mise en place :
 
-Bronze : Stockage brut des messages Kafka.
-Silver : Nettoyage et transformation des données.
-Gold : Agrégation et analyse des courses de taxi.
+- Bronze : Stockage brut des messages Kafka.
+- Silver : Nettoyage et transformation des données.
+- Gold : Agrégation et analyse des courses de taxi.
